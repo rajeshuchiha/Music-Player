@@ -1,2 +1,2 @@
 # Music-Player
-Open the index.html file for a working webpage.
+Click "index" file to see a working webpage.
